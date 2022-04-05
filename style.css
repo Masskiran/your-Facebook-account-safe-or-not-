@@ -1,0 +1,25 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.hi{
+  border-bottom: 2px solid black
+}
+
+.ok{
+  text-align: center;
+  color: deepskyblue;
+  padding-top: 40px;
+}
+.of{
+  text-align: center;
+  color: black;
+  background: orange;
+  padding: 20px;
+  border-radius: 50px
+  
+}
+
+.k{
+  padding-top: 20px
+}
